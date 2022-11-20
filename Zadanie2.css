@@ -1,0 +1,44 @@
+body {
+background-color: grey;
+text-align: center;
+}
+
+h1 {
+color: yellow;
+font-family: "Times New Roman", Times, serif;
+margin-left: 20px;
+background-color: red;
+opacity: 0.2;
+} 
+
+p{
+color: blue;
+font-weight: 900;
+	font-family: Arial, Helvetica, sans-serif;
+border-style: dashed;
+border-width:medium;
+border-color: darkgray;
+border-radius: 5px;
+}
+table, th, td {
+border: 2px dotted;
+margin-left: auto; 
+margin-right: auto;
+
+}
+ol {
+color: red;
+list-style-type: upper-roman;
+background: pink;
+padding: 20px;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+}
+
+ul {
+list-style-type: circle;
+	background: green;
+	padding: 20px;
+}
